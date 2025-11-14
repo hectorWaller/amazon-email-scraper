@@ -1,0 +1,5 @@
+{
+  "allowedCountries": ["US", "UK"],
+  "locationKeyword": "New York",
+  "allowedEmailDomain": ".com"
+}
