@@ -1,0 +1,2 @@
+# Example input file placeholder
+# Not directly used by runner.py but kept for folder integrity.
