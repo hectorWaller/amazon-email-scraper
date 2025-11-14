@@ -1,0 +1,16 @@
+[
+  {
+    "content": "Contact us at info@example.com or sales@brand.com.",
+    "sourceUrl": "https://example.com/profile",
+    "keyword": "sales",
+    "location": "New York",
+    "country": "US"
+  },
+  {
+    "content": "Reach the manager at manager@company.co.uk.",
+    "sourceUrl": "https://example.com/uk",
+    "keyword": "manager",
+    "location": "London",
+    "country": "UK"
+  }
+]
